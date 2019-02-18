@@ -1012,3 +1012,7 @@ footer h4 {
           -webkit-transform: scale(1.0);
       }
 }
+#introFooter{
+    color: whitesmoke;
+    bottom: 0;
+}
