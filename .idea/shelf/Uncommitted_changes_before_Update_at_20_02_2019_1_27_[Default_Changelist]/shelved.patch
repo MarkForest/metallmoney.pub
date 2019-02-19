@@ -1,0 +1,97 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"4b911246-9ec5-4288-8005-0872e185e22c\" name=\"Default Changelist\" comment=\"commit 1.1 RD\">\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/dictionaries/dmitriy.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/encodings.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/vcs.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"EXCLUDED_CONVERTED_TO_IGNORED\" value=\"true\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"DatabaseView\">\r\n    <option name=\"SHOW_INTERMEDIATE\" value=\"true\" />\r\n    <option name=\"GROUP_DATA_SOURCES\" value=\"true\" />\r\n    <option name=\"GROUP_SCHEMA\" value=\"true\" />\r\n    <option name=\"GROUP_CONTENTS\" value=\"false\" />\r\n    <option name=\"SORT_POSITIONED\" value=\"false\" />\r\n    <option name=\"SHOW_EMPTY_GROUPS\" value=\"false\" />\r\n    <option name=\"AUTO_SCROLL_FROM_SOURCE\" value=\"false\" />\r\n    <option name=\"HIDDEN_KINDS\">\r\n      <set />\r\n    </option>\r\n    <expand />\r\n    <select />\r\n  </component>\r\n  <component name=\"FileEditorManager\">\r\n    <leaf SIDE_TABS_SIZE_LIMIT_KEY=\"300\">\r\n      <file pinned=\"false\" current-in-tab=\"true\">\r\n        <entry file=\"file://$PROJECT_DIR$/index.html\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state relative-caret-position=\"180\">\r\n              <caret line=\"28\" column=\"63\" lean-forward=\"true\" selection-start-line=\"28\" selection-start-column=\"63\" selection-end-line=\"28\" selection-end-column=\"63\" />\r\n              <folding>\r\n                <element signature=\"e#48795#48801#0\" expanded=\"true\" />\r\n              </folding>\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n      <file pinned=\"false\" current-in-tab=\"false\">\r\n        <entry file=\"file://$PROJECT_DIR$/css/styles.css\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state relative-caret-position=\"23299\">\r\n              <caret line=\"1013\" column=\"1\" selection-start-line=\"1013\" selection-start-column=\"1\" selection-end-line=\"1013\" selection-end-column=\"1\" />\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n    </leaf>\r\n  </component>\r\n  <component name=\"FindInProjectRecents\">\r\n    <findStrings>\r\n      <find>font</find>\r\n      <find>carousel</find>\r\n      <find>alt</find>\r\n      <find>section</find>\r\n      <find>о нас</find>\r\n      <find>icon</find>\r\n    </findStrings>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"IdeDocumentHistory\">\r\n    <option name=\"CHANGED_PATHS\">\r\n      <list>\r\n        <option value=\"$PROJECT_DIR$/js/modernizr.js\" />\r\n        <option value=\"$PROJECT_DIR$/css/bootstrap.min.css\" />\r\n        <option value=\"$PROJECT_DIR$/css/styles.css\" />\r\n        <option value=\"$PROJECT_DIR$/index.html\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"ProjectFrameBounds\" extendedState=\"6\">\r\n    <option name=\"x\" value=\"95\" />\r\n    <option name=\"y\" value=\"9\" />\r\n    <option name=\"width\" value=\"1799\" />\r\n    <option name=\"height\" value=\"1047\" />\r\n  </component>\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"1\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectView\">\r\n    <navigator proportions=\"\" version=\"1\">\r\n      <foldersAlwaysOnTop value=\"true\" />\r\n    </navigator>\r\n    <panes />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"ignore_missing_gitignore\" value=\"true\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/../servus.loc\" />\r\n    <property name=\"nodejs_interpreter_path.stuck_in_default_project\" value=\"undefined stuck path\" />\r\n    <property name=\"nodejs_npm_path_reset_for_default_project\" value=\"true\" />\r\n  </component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\march\\Desktop\\myway\\img\\team\" />\r\n      <recent name=\"C:\\Users\\march\\Desktop\\myway\\img\\clients\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunDashboard\">\r\n    <option name=\"ruleStates\">\r\n      <list>\r\n        <RuleState>\r\n          <option name=\"name\" value=\"ConfigurationTypeDashboardGroupingRule\" />\r\n        </RuleState>\r\n        <RuleState>\r\n          <option name=\"name\" value=\"StatusDashboardGroupingRule\" />\r\n        </RuleState>\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"SvnConfiguration\">\r\n    <configuration />\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"4b911246-9ec5-4288-8005-0872e185e22c\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1549828585866</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1549828585866</updated>\r\n      <workItem from=\"1549828587339\" duration=\"4257000\" />\r\n      <workItem from=\"1549840971339\" duration=\"4234000\" />\r\n      <workItem from=\"1549871107613\" duration=\"1209000\" />\r\n      <workItem from=\"1549878215337\" duration=\"2513000\" />\r\n      <workItem from=\"1549893609935\" duration=\"108000\" />\r\n      <workItem from=\"1550224789631\" duration=\"3593000\" />\r\n      <workItem from=\"1550482175966\" duration=\"9044000\" />\r\n      <workItem from=\"1550494631039\" duration=\"5531000\" />\r\n      <workItem from=\"1550616908792\" duration=\"1392000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"commit 1.0 RD\">\r\n      <created>1550520884753</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1550520884753</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"commit 1.1 RD\">\r\n      <created>1550521252052</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1550521252052</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"commit 1.1 RD\">\r\n      <created>1550617864671</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1550617864672</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"4\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TimeTrackingManager\">\r\n    <option name=\"totallyTimeSpent\" value=\"31881000\" />\r\n  </component>\r\n  <component name=\"ToolWindowManager\">\r\n    <frame x=\"-8\" y=\"-8\" width=\"1936\" height=\"1056\" extended-state=\"6\" />\r\n    <editor active=\"true\" />\r\n    <layout>\r\n      <window_info content_ui=\"combo\" id=\"Project\" order=\"0\" weight=\"0.15565032\" />\r\n      <window_info id=\"Structure\" order=\"1\" side_tool=\"true\" weight=\"0.25\" />\r\n      <window_info id=\"Favorites\" order=\"2\" side_tool=\"true\" />\r\n      <window_info anchor=\"bottom\" id=\"Message\" order=\"0\" />\r\n      <window_info anchor=\"bottom\" id=\"Find\" order=\"1\" />\r\n      <window_info anchor=\"bottom\" id=\"Run\" order=\"2\" />\r\n      <window_info anchor=\"bottom\" id=\"Debug\" order=\"3\" weight=\"0.4\" />\r\n      <window_info anchor=\"bottom\" id=\"Cvs\" order=\"4\" weight=\"0.25\" />\r\n      <window_info anchor=\"bottom\" id=\"Inspection\" order=\"5\" weight=\"0.4\" />\r\n      <window_info anchor=\"bottom\" id=\"TODO\" order=\"6\" />\r\n      <window_info anchor=\"bottom\" id=\"Docker\" order=\"7\" show_stripe_button=\"false\" />\r\n      <window_info anchor=\"bottom\" id=\"Version Control\" order=\"8\" weight=\"0.32998884\" />\r\n      <window_info anchor=\"bottom\" id=\"Database Changes\" order=\"9\" show_stripe_button=\"false\" />\r\n      <window_info anchor=\"bottom\" id=\"CSS-X-Fire\" order=\"10\" />\r\n      <window_info anchor=\"bottom\" id=\"Terminal\" order=\"11\" weight=\"0.32998884\" />\r\n      <window_info anchor=\"bottom\" id=\"Event Log\" order=\"12\" side_tool=\"true\" />\r\n      <window_info anchor=\"right\" id=\"Commander\" internal_type=\"SLIDING\" order=\"0\" type=\"SLIDING\" weight=\"0.4\" />\r\n      <window_info anchor=\"right\" id=\"Ant Build\" order=\"1\" weight=\"0.25\" />\r\n      <window_info anchor=\"right\" content_ui=\"combo\" id=\"Hierarchy\" order=\"2\" weight=\"0.25\" />\r\n      <window_info anchor=\"right\" id=\"Database\" order=\"3\" weight=\"0.32995737\" />\r\n    </layout>\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"1\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"commit 1.0 RD\" />\r\n    <MESSAGE value=\"commit 1.1 RD\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"commit 1.1 RD\" />\r\n  </component>\r\n  <component name=\"editorHistoryManager\">\r\n    <entry file=\"file://$PROJECT_DIR$/css/simpleline-icons.svg\">\r\n      <provider selected=\"true\" editor-type-id=\"images\" />\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/css/social-icons.svg\">\r\n      <provider selected=\"true\" editor-type-id=\"images\" />\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/css/bootstrap.min.css\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/js/modernizr.js\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"51\">\r\n          <caret line=\"3\" column=\"14592\" selection-start-line=\"3\" selection-start-column=\"14592\" selection-end-line=\"3\" selection-end-column=\"14592\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/css/streamline-icons.svg\">\r\n      <provider selected=\"true\" editor-type-id=\"images\" />\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/index.html\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"180\">\r\n          <caret line=\"28\" column=\"63\" lean-forward=\"true\" selection-start-line=\"28\" selection-start-column=\"63\" selection-end-line=\"28\" selection-end-column=\"63\" />\r\n          <folding>\r\n            <element signature=\"e#48795#48801#0\" expanded=\"true\" />\r\n          </folding>\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/css/styles.css\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"23299\">\r\n          <caret line=\"1013\" column=\"1\" selection-start-line=\"1013\" selection-start-column=\"1\" selection-end-line=\"1013\" selection-end-column=\"1\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(date 1550617864000)
++++ .idea/workspace.xml	(date 1550618833489)
+@@ -2,10 +2,6 @@
+ <project version="4">
+   <component name="ChangeListManager">
+     <list default="true" id="4b911246-9ec5-4288-8005-0872e185e22c" name="Default Changelist" comment="commit 1.1 RD">
+-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/dmitriy.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+@@ -33,8 +29,8 @@
+       <file pinned="false" current-in-tab="true">
+         <entry file="file://$PROJECT_DIR$/index.html">
+           <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="180">
+-              <caret line="28" column="63" lean-forward="true" selection-start-line="28" selection-start-column="63" selection-end-line="28" selection-end-column="63" />
++            <state relative-caret-position="23">
++              <caret line="213" column="18" lean-forward="true" selection-start-line="213" selection-start-column="18" selection-end-line="213" selection-end-column="18" />
+               <folding>
+                 <element signature="e#48795#48801#0" expanded="true" />
+               </folding>
+@@ -64,10 +60,11 @@
+     </findStrings>
+   </component>
+   <component name="Git.Settings">
++    <option name="UPDATE_TYPE" value="MERGE" />
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+     <option name="RECENT_BRANCH_BY_REPOSITORY">
+       <map>
+-        <entry key="$PROJECT_DIR$" value="master" />
++        <entry key="$PROJECT_DIR$" value="dev" />
+       </map>
+     </option>
+   </component>
+@@ -102,6 +99,7 @@
+     <property name="last_opened_file_path" value="$PROJECT_DIR$/../servus.loc" />
+     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
++    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+   </component>
+   <component name="RecentsManager">
+     <key name="MoveFile.RECENT_KEYS">
+@@ -139,7 +137,7 @@
+       <workItem from="1550224789631" duration="3593000" />
+       <workItem from="1550482175966" duration="9044000" />
+       <workItem from="1550494631039" duration="5531000" />
+-      <workItem from="1550616908792" duration="1392000" />
++      <workItem from="1550616908792" duration="1923000" />
+     </task>
+     <task id="LOCAL-00001" summary="commit 1.0 RD">
+       <created>1550520884753</created>
+@@ -162,15 +160,21 @@
+       <option name="project" value="LOCAL" />
+       <updated>1550617864672</updated>
+     </task>
+-    <option name="localTasksCounter" value="4" />
++    <task id="LOCAL-00004" summary="commit 1.1 RD">
++      <created>1550618513162</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1550618513162</updated>
++    </task>
++    <option name="localTasksCounter" value="5" />
+     <servers />
+   </component>
+   <component name="TimeTrackingManager">
+-    <option name="totallyTimeSpent" value="31881000" />
++    <option name="totallyTimeSpent" value="32412000" />
+   </component>
+   <component name="ToolWindowManager">
+     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+-    <editor active="true" />
+     <layout>
+       <window_info content_ui="combo" id="Project" order="0" weight="0.15565032" />
+       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+@@ -224,8 +228,8 @@
+     </entry>
+     <entry file="file://$PROJECT_DIR$/index.html">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="180">
+-          <caret line="28" column="63" lean-forward="true" selection-start-line="28" selection-start-column="63" selection-end-line="28" selection-end-column="63" />
++        <state relative-caret-position="23">
++          <caret line="213" column="18" lean-forward="true" selection-start-line="213" selection-start-column="18" selection-end-line="213" selection-end-column="18" />
+           <folding>
+             <element signature="e#48795#48801#0" expanded="true" />
+           </folding>
