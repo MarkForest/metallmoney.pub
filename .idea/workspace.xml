@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b911246-9ec5-4288-8005-0872e185e22c" name="Default Changelist" comment="" />
+    <list default="true" id="4b911246-9ec5-4288-8005-0872e185e22c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,16 +29,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="259" column="28" selection-start-line="259" selection-start-column="28" selection-end-line="259" selection-end-column="28" />
+            <state relative-caret-position="790">
+              <caret line="279" column="28" selection-start-line="279" selection-start-column="28" selection-end-line="279" selection-end-column="28" />
               <folding>
-                <element signature="n#style#0;n#i#0;n#div#3;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#i#0;n#div#0;n#div#4;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#i#0;n#div#0;n#div#5;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#i#0;n#div#0;n#div#6;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#i#0;n#div#0;n#div#7;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#i#0;n#div#0;n#div#8;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1550499044612" expanded="true" signature="36034:37094" ph="..." />
+                <element signature="e#48795#48801#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -45,8 +41,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="667">
-              <caret line="1018" lean-forward="true" selection-start-line="1018" selection-end-line="1018" />
+            <state relative-caret-position="23299">
+              <caret line="1013" column="1" selection-start-line="1013" selection-start-column="1" selection-end-line="1013" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -65,6 +61,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -89,37 +90,7 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="metallmoney.pub" type="b2602c69:ProjectViewProjectNode" />
-              <item name="metallmoney.pub" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="metallmoney.pub" type="b2602c69:ProjectViewProjectNode" />
-              <item name="metallmoney.pub" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="metallmoney.pub" type="b2602c69:ProjectViewProjectNode" />
-              <item name="metallmoney.pub" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="ico" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="metallmoney.pub" type="b2602c69:ProjectViewProjectNode" />
-              <item name="metallmoney.pub" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="types of metal" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -163,7 +134,8 @@
       <workItem from="1549893609935" duration="108000" />
       <workItem from="1550224789631" duration="3593000" />
       <workItem from="1550482175966" duration="9044000" />
-      <workItem from="1550494631039" duration="5339000" />
+      <workItem from="1550494631039" duration="5531000" />
+      <workItem from="1550616908792" duration="849000" />
     </task>
     <task id="LOCAL-00001" summary="commit 1.0 RD">
       <created>1550520884753</created>
@@ -172,11 +144,18 @@
       <option name="project" value="LOCAL" />
       <updated>1550520884753</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit 1.1 RD">
+      <created>1550521252052</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1550521252052</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30297000" />
+    <option name="totallyTimeSpent" value="31338000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -209,7 +188,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit 1.0 RD" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 1.0 RD" />
+    <MESSAGE value="commit 1.1 RD" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 1.1 RD" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/css/simpleline-icons.svg">
@@ -231,26 +211,20 @@
     <entry file="file://$PROJECT_DIR$/css/streamline-icons.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="1018" lean-forward="true" selection-start-line="1018" selection-end-line="1018" />
+        <state relative-caret-position="790">
+          <caret line="279" column="28" selection-start-line="279" selection-start-column="28" selection-end-line="279" selection-end-column="28" />
+          <folding>
+            <element signature="e#48795#48801#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="259" column="28" selection-start-line="259" selection-start-column="28" selection-end-line="259" selection-end-column="28" />
-          <folding>
-            <element signature="n#style#0;n#i#0;n#div#3;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#div#0;n#div#4;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#div#0;n#div#5;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#div#0;n#div#6;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#div#0;n#div#7;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#div#0;n#div#8;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1550499044612" expanded="true" signature="36034:37094" ph="..." />
-          </folding>
+        <state relative-caret-position="23299">
+          <caret line="1013" column="1" selection-start-line="1013" selection-start-column="1" selection-end-line="1013" selection-end-column="1" />
         </state>
       </provider>
     </entry>
