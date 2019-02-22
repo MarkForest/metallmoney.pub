@@ -23,16 +23,16 @@
 define('DB_NAME', 'metall_db');
 
 /** Имя пользователя MySQL */
-define('DB_USER', 'metall_admin');
+define('DB_USER', 'root');
 
 /** Пароль к базе данных MySQL */
-define('DB_PASSWORD', '12345');
+define('DB_PASSWORD', '');
 
 /** Имя сервера MySQL */
 define('DB_HOST', 'localhost');
 
 /** Кодировка базы данных для создания таблиц. */
-define('DB_CHARSET', 'utf8mb4');
+define('DB_CHARSET', 'utf8');
 
 /** Схема сопоставления. Не меняйте, если не уверены. */
 define('DB_COLLATE', '');

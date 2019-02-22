@@ -114,15 +114,15 @@ $(document).ready(function() {
 
 /* ==== 6) SVG icons ==== */
 
-	var url ='css/streamline-icons.svg';
+	var url ='wp-content/themes/metal-theme/assets/css/streamline-icons.svg';
 	var c=new XMLHttpRequest(); c.open('GET', url, false); c.setRequestHeader('Content-Type', 'text/xml'); c.send();
 	document.body.insertBefore(c.responseXML.firstChild, document.body.firstChild)
 
-	var url ='css/simpleline-icons.svg';
+	var url ='wp-content/themes/metal-theme/assets/css/simpleline-icons.svg';
 	var c=new XMLHttpRequest(); c.open('GET', url, false); c.setRequestHeader('Content-Type', 'text/xml'); c.send();
 	document.body.insertBefore(c.responseXML.firstChild, document.body.firstChild)
 
-	var url ='css/social-icons.svg';
+	var url ='wp-content/themes/metal-theme/assets/css/social-icons.svg';
 	var c=new XMLHttpRequest(); c.open('GET', url, false); c.setRequestHeader('Content-Type', 'text/xml'); c.send();
 	document.body.insertBefore(c.responseXML.firstChild, document.body.firstChild)
 
@@ -136,7 +136,7 @@ $(document).ready(function() {
 
 /* ==== 7) Google map ==== */
 
-	google.maps.event.addDomListener(window, 'load', init);
+	// google.maps.event.addDomListener(window, 'load', init);
 
 	function init() {
 		var mapOptions = {
@@ -150,9 +150,9 @@ $(document).ready(function() {
 /* Custom map color / See documentation */
 			styles: []
 		};
-		var mapElement = document.getElementById('gmap');
-		var map = new google.maps.Map(mapElement, mapOptions);
-		var image = 'img/map-pin.png';
+		// var mapElement = document.getElementById('gmap');
+		// var map = new google.maps.Map(mapElement, mapOptions);
+		// var image = 'img/map-pin.png';
 /* Marker #1 */
 		var marker = new google.maps.Marker({
 			position: new google.maps.LatLng(45.253, 19.845),

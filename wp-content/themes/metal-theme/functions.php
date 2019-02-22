@@ -3,7 +3,8 @@
 add_action('wp_enqueue_scripts', 'metal_styles');
 add_action('wp_enqueue_scripts', 'metal_scripts');
 
-function metal_styles() {
+function metal_styles()
+{
     wp_enqueue_style('bootstrap-style', get_template_directory_uri().'/assets/css/bootstrap.min.css');
     wp_enqueue_style('main-style', get_stylesheet_uri());
 }
@@ -44,8 +45,8 @@ function metal_scripts() {
     wp_enqueue_script('ekkolightbox', get_template_directory_uri().'/assets/js/ekko-lightbox.min.js',
         array('jquery'), null, true);
 
-    wp_enqueue_script('googlemap', 'http://maps.google.com/maps/api/js?sensor=false',
-        array('jquery'), null, true);
+//    wp_enqueue_script('googlemap', 'http://maps.google.com/maps/api/js?sensor=false',
+//        array('jquery'), null, true);
 
     wp_enqueue_script('jqueryform.', get_template_directory_uri().'/assets/js/jquery.form.js',
         array('jquery'), null, true);

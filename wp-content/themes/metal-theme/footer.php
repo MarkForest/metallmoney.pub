@@ -51,7 +51,7 @@
 <!--<!-- Gallery lightbox -->
 <!--<script src="js/ekko-lightbox.min.js"></script>-->
 <!--<!-- Contact form and google map -->
-<script src="http://maps.google.com/maps/api/js?sensor=false"></script>
+<!--<script src="http://maps.google.com/maps/api/js?sensor=false"></script>-->
 <!--<script src="js/jquery.form.js"></script>-->
 <!--<script src="js/jquery.flowuplabels.js"></script>-->
 <!--<!-- Custom scripts and triggers -->
