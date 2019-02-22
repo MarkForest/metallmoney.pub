@@ -36,25 +36,25 @@
 <!--<script src="js/jquery.min.js"></script>-->
 <!-- Modernizr -->
 <!--<script src="js/modernizr.js"></script>-->
-<!--<!-- Main Bootstrap js -->-->
+<!--<!-- Main Bootstrap js -->
 <!--<script src="js/bootstrap.min.js"></script>-->
-<!--<!-- Retina support -->-->
+<!--<!-- Retina support -->
 <!--<script src="js/retina.js"></script>-->
-<!--<!-- Animated elements -->-->
+<!--<!-- Animated elements -->
 <!--<script src="js/imagesloaded.min.js"></script>-->
 <!--<script src="js/skrollr.js"></script>-->
-<!--<!-- Smooth scroll -->-->
+<!--<!-- Smooth scroll -->
 <!--<script src="js/jquery.scrollto.min.js"></script>-->
 <!--<script src="js/jquery.easing.js"></script>-->
 <!--<script src="js/jquery.localscroll.min.js"></script>-->
 <!--<script src="js/smoothscroll.js"></script>-->
-<!--<!-- Gallery lightbox -->-->
+<!--<!-- Gallery lightbox -->
 <!--<script src="js/ekko-lightbox.min.js"></script>-->
-<!--<!-- Contact form and google map -->-->
+<!--<!-- Contact form and google map -->
 <script src="http://maps.google.com/maps/api/js?sensor=false"></script>
 <!--<script src="js/jquery.form.js"></script>-->
 <!--<script src="js/jquery.flowuplabels.js"></script>-->
-<!--<!-- Custom scripts and triggers -->-->
+<!--<!-- Custom scripts and triggers -->
 <!--<script src="js/custom.js"></script>-->
 <!-- End scripts -->
 </body>
