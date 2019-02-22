@@ -46,7 +46,7 @@
 <!-- Start services -->
 <section id="services" class="white-bg">
     <div class="container">
-        <div class="row divide-md">
+        <div style="padding-bottom: 0" class="row divide-md">
             <!-- Top content / image service -->
             <div class="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 divide-md text-center">
                 <h2>Схема работы</h2>
@@ -58,9 +58,9 @@
             <div class="clearfix"></div>
             <!-- Service #1 -->
             <div class="col-sm-4 divide-md text-center">
-                <i class="material-icons" style="font-size: 48px">
-                    contact_phone
-                </i>
+                <div style="background-color: transparent" class="myway-icon-services">
+                    <img src="<?php bloginfo('template_url')?>/assets/img/ico/cellphone.png" class="img-responsive" alt="picture">
+                </div>
                 <div class="divide-xs"></div>
                 <h3>При желании сдать свой металлолом тебе помогут наши сотрудники, воните или оставляете заявку</h3>
                 <!--<h4 class="smoke">Built with Bootstrap 3</h4>-->
@@ -68,10 +68,8 @@
             </div>
             <!-- Service #2 -->
             <div class="col-sm-4 divide-md text-center">
-                <div class="myway-icon-services">
-                    <i class="material-icons" style="font-size: 48px">
-                        phone_callback
-                    </i>
+                <div style="background-color: transparent" class="myway-icon-services">
+                    <img src="<?php bloginfo('template_url')?>/assets/img/ico/smartphone.png" class="img-responsive" alt="picture">
                 </div>
                 <div class="divide-xs"></div>
                 <h3>Наши операторы согласовывают с вами, когда наши сотрудники приедут или оформят ваш заказ.</h3>
@@ -80,10 +78,8 @@
             </div>
             <!-- Service #3 -->
             <div class="col-sm-4 divide-md text-center">
-                <div class="myway-icon-services">
-                    <i class="material-icons" style="font-size: 48px">
-                        airport_shuttle
-                    </i>
+                <div style="background-color: transparent" class="myway-icon-services">
+                    <img src="<?php bloginfo('template_url')?>/assets/img/ico/present.png" class="img-responsive" alt="picture">
                 </div>
                 <div class="divide-xs"></div>
                 <h3>Выезжают на заказ, при необходимости:
@@ -94,10 +90,8 @@
             </div>
 
             <div class="col-sm-4 divide-md text-center">
-                <div class="myway-icon-services">
-                    <i class="material-icons" style="font-size: 48px">
-                        tag_faces
-                    </i>
+                <div style="background-color: transparent" class="myway-icon-services">
+                    <img src="<?php bloginfo('template_url')?>/assets/img/ico/girl.png" class="img-responsive" alt="picture">
                 </div>
                 <div class="divide-xs"></div>
                 <h3>Вы остаетесь довольны, поскольку наша компания помогла вам избавится от мусора в вашем (доме, дворе , гараже)</h3>
@@ -105,10 +99,8 @@
                 <!--<p>Packed in one nice document that comes with download. Saves your time so you can be dedicated to your work.</p>-->
             </div>
             <div class="col-sm-4 divide-md text-center">
-                <div class="myway-icon-services">
-                    <i class="material-icons" style="font-size: 48px">
-                        monetization_on
-                    </i>
+                <div style="background-color: transparent" class="myway-icon-services">
+                    <img src="<?php bloginfo('template_url')?>/assets/img/ico/case.png" class="img-responsive" alt="picture">
                 </div>
                 <div class="divide-xs"></div>
                 <h3>Рассчитывают на месте</h3>
@@ -116,10 +108,8 @@
                 <!--<p>Packed in one nice document that comes with download. Saves your time so you can be dedicated to your work.</p>-->
             </div>
             <div class="col-sm-4 divide-md text-center">
-                <div class="myway-icon-services">
-                    <i class="material-icons" style="font-size: 48px">
-                        thumb_up
-                    </i>
+                <div style="background-color: transparent" class="myway-icon-services">
+                    <img src="<?php bloginfo('template_url')?>/assets/img/ico/handshake.png" class="img-responsive" alt="picture">
                 </div>
                 <div class="divide-xs"></div>
                 <h3>Все услуги совершенно бесплатно</h3>
@@ -135,9 +125,9 @@
 <!-- Start features -->
 <section id="features" class="white-bg">
     <div class="container">
-        <div class="row divide-md">
+        <div style="padding-top: 0" class="row divide-md">
             <!-- Top content / image feature -->
-            <div class="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 divide-md text-center">
+            <div style="" class="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 divide-md text-center">
                 <h2>О нас</h2>
                 <hr class="title-divider">
                 <p> Мы не первая и возможно не последняя компания которая занимается металлоломом. Мы компания Metallmaney- одна из главных компаний Украины, специализирующая по переработке и сбору черного и цветного металлолома.
@@ -245,14 +235,22 @@
 </section>
 <!-- End works header -->
 
+    <style>
+        @media (min-width: 992px)  {
+            .mcls {
+                padding-top: 60%;
+            }
+        }
+    </style>
+
 <!-- Start works -->
 <section id="works" class="white-bg">
     <div class="container">
         <!-- Start #1 Content -->
         <div class="row">
             <div class="divide-sm"></div>
-            <div class="col-sm-6">
-                <div class="squared">
+            <div class="col-xs-6">
+                <div class="squared mcls">
                     <div class="squared-content">
                         <h2>Черный металл </h2>
                         <h5 class="smoke"><small>От 5 до 5,5 грн/кг</small></h5>
@@ -272,13 +270,13 @@
                             бочки,
                             машины
                         </p>
-                        <a href="#contact" class="btn btn-ghost">Оставить Заявку</a>
+                        <a href="#contact" class="btn btn-ghost hidden-xs">Оставить Заявку</a>
                     </div>
                 </div>
             </div>
-            <div class="divide-sm visible-xs"></div>
-            <div class="col-sm-6">
-                <div class="squared">
+<!--            <div class="divide-sm visible-xs"></div>-->
+            <div class="col-xs-6">
+                <div class="squared mcls">
                     <div class="squared-content">
                         <div id="carousel-1" class="carousel">
                             <div class="carousel-inner">
@@ -298,9 +296,9 @@
         <hr class="no-margin">
         <!-- Start #2 Image -->
         <div class="row">
-            <div class="divide-sm visible-xs"></div>
-            <div class="col-sm-6">
-                <div class="squared">
+<!--            <div class="divide-sm visible-xs"></div>-->
+            <div class="col-xs-6">
+                <div class="squared mcls">
                     <div class="squared-content">
                         <div id="carousel-2" class="carousel">
                             <div class="carousel-inner">
@@ -317,9 +315,9 @@
                     </div>
                 </div>
             </div>
-            <div class="divide-sm visible-xs"></div>
-            <div class="col-sm-6">
-                <div class="squared">
+<!--            <div class="divide-sm visible-xs"></div>-->
+            <div class="col-xs-6">
+                <div class="squared mcls">
                     <div class="squared-content">
                         <h2>Медь</h2>
                         <h5 class="smoke"><small>От 125 до 136 грн/кг</small></h5>
@@ -331,19 +329,19 @@
                             посуда,
                             конструкции
                         </p>
-                        <a href="#contact" class="btn btn-ghost">Оставить Заявку</a>
+                        <a href="#contact" class="btn btn-ghost hidden-xs">Оставить Заявку</a>
                     </div>
                 </div>
             </div>
-            <div class="divide-sm visible-xs"></div>
+<!--            <div class="divide-sm visible-xs"></div>-->
         </div>
         <!-- End #2 -->
         <hr class="no-margin">
         <!-- Start #3 Content -->
         <div class="row">
-            <div class="divide-sm visible-xs"></div>
-            <div class="col-sm-6">
-                <div class="squared">
+<!--            <div class="divide-sm visible-xs"></div>-->
+            <div class="col-xs-6">
+                <div class="squared mcls">
                     <div class="squared-content">
                         <h2>Бронза</h2>
                         <h5 class="smoke"><small>От 75 до 86 грн/кг</small></h5>
@@ -351,13 +349,13 @@
                             бронзовые изделия,
                             статуэтки
                         </p>
-                        <a href="#contact" class="btn btn-ghost">Оставить заявку</a>
+                        <a href="#contact" class="btn btn-ghost hidden-xs">Оставить заявку</a>
                     </div>
                 </div>
             </div>
-            <div class="divide-sm visible-xs"></div>
-            <div class="col-sm-6">
-                <div class="squared">
+<!--            <div class="divide-sm visible-xs"></div>-->
+            <div class="col-xs-6">
+                <div class="squared mcls">
                     <div class="squared-content">
                         <div id="carousel-3" class="carousel">
                             <div class="carousel-inner">
@@ -365,7 +363,7 @@
                                     <img src="<?php bloginfo('template_url')?>/assets/img/types of metal/3.png"  alt="pic"/>
                                 </div>
                                 <div class="item">
-                                    <img src="<?php bloginfo('template_url')?>/assets/img/types of metal/3.2.jpg"  alt="pic"/>
+                                    <img src="<?php bloginfo('template_url')?>/assets/img/types of metal/3.2.png"  alt="pic"/>
                                 </div>
                             </div>
                             <button class="left carousel-control" href="#carousel-3" data-slide="prev"><i class="fa fa-angle-left"></i></button>
@@ -379,9 +377,9 @@
         <hr class="no-margin">
         <!-- Start #4 Content -->
         <div class="row">
-            <div class="divide-sm visible-xs"></div>
-            <div class="col-sm-6">
-                <div class="squared">
+<!--            <div class="divide-sm visible-xs"></div>-->
+            <div class="col-xs-6">
+                <div class="squared mcls">
                     <div class="squared-content">
                         <div id="carousel-4" class="carousel">
                             <div class="carousel-inner">
@@ -398,9 +396,9 @@
                     </div>
                 </div>
             </div>
-            <div class="divide-sm visible-xs"></div>
-            <div class="col-sm-6">
-                <div class="squared">
+<!--            <div class="divide-sm visible-xs"></div>-->
+            <div class="col-xs-6">
+                <div class="squared mcls">
                     <div class="squared-content">
                         <h2>Алюминий</h2>
                         <h5 class="smoke"><small>От 25 до30 грн/кг</small></h5>
@@ -412,19 +410,19 @@
                             листы,
                             уголки
                         </p>
-                        <a href="#contact" class="btn btn-ghost">Оставить Заявку</a>
+                        <a href="#contact" class="btn btn-ghost hidden-xs">Оставить Заявку</a>
                     </div>
                 </div>
             </div>
-            <div class="divide-sm visible-xs"></div>
+<!--            <div class="divide-sm visible-xs"></div>-->
         </div>
         <!-- End #4 -->
         <hr class="no-margin">
         <!-- Start #5 Content -->
         <div class="row">
-            <div class="divide-sm visible-xs"></div>
-            <div class="col-sm-6">
-                <div class="squared">
+<!--            <div class="divide-sm visible-xs"></div>-->
+            <div class="col-xs-6">
+                <div class="squared mcls">
                     <div class="squared-content">
                         <h2>Свинец</h2>
                         <h5 class="smoke"><small>от 39 до 42 грн/кг</small></h5>
@@ -432,13 +430,13 @@
                             сплавы,
                             конструкции
                         </p>
-                        <a href="#contact" class="btn btn-ghost">Оставить Заявку</a>
+                        <a href="#contact" class="btn btn-ghost hidden-xs">Оставить Заявку</a>
                     </div>
                 </div>
             </div>
-            <div class="divide-sm visible-xs"></div>
-            <div class="col-sm-6">
-                <div class="squared">
+<!--            <div class="divide-sm visible-xs"></div>-->
+            <div class="col-xs-6">
+                <div class="squared mcls">
                     <div class="squared-content">
                         <div id="carousel-5" class="carousel">
                             <div class="carousel-inner">
@@ -446,7 +444,7 @@
                                     <img src="<?php bloginfo('template_url')?>/assets/img/types of metal/5.png"  alt="pic"/>
                                 </div>
                                 <div class="item">
-                                    <img src="<?php bloginfo('template_url')?>/assets/img/types of metal/5.2.jpg" alt="pic"/>
+                                    <img src="<?php bloginfo('template_url')?>/assets/img/types of metal/5.2.png" alt="pic"/>
                                 </div>
                             </div>
                             <button class="left carousel-control" href="#carousel-5" data-slide="prev"><i class="fa fa-angle-left"></i></button>
@@ -460,9 +458,9 @@
         <hr class="no-margin">
         <!-- Start #6 Content -->
         <div class="row">
-            <div class="divide-sm visible-xs"></div>
-            <div class="col-sm-6">
-                <div class="squared">
+<!--            <div class="divide-sm visible-xs"></div>-->
+            <div class="col-xs-6">
+                <div class="squared mcls">
                     <div class="squared-content">
                         <div id="carousel-6" class="carousel">
                             <div class="carousel-inner">
@@ -479,9 +477,9 @@
                     </div>
                 </div>
             </div>
-            <div class="divide-sm visible-xs"></div>
-            <div class="col-sm-6">
-                <div class="squared">
+<!--            <div class="divide-sm visible-xs"></div>-->
+            <div class="col-xs-6">
+                <div class="squared mcls">
                     <div class="squared-content">
                         <h2>Латунь </h2>
                         <h5 class="smoke"><small>от 82 до 86 грн/кг</small></h5>
@@ -491,19 +489,19 @@
                             профиль,
                             трубы,
                         </p>
-                        <a href="#contact" class="btn btn-ghost">Оставить Заявку</a>
+                        <a href="#contact" class="btn btn-ghost hidden-xs">Оставить Заявку</a>
                     </div>
                 </div>
             </div>
-            <div class="divide-sm visible-xs"></div>
+<!--            <div class="divide-sm visible-xs"></div>-->
         </div>
         <!-- End #6 -->
         <hr class="no-margin">
         <!-- Start #7 Content -->
         <div class="row">
-            <div class="divide-sm visible-xs"></div>
-            <div class="col-sm-6">
-                <div class="squared">
+<!--            <div class="divide-sm visible-xs"></div>-->
+            <div class="col-xs-6">
+                <div class="squared mcls">
                     <div class="squared-content">
                         <h2>Нержавейка </h2>
                         <h5 class="smoke"><small>от 19 до 20грн/кг</small></h5>
@@ -512,13 +510,13 @@
                             трубы,
                             бочки
                         </p>
-                        <a href="#contact" class="btn btn-ghost">Оставить Заявку</a>
+                        <a href="#contact" class="btn btn-ghost hidden-xs">Оставить Заявку</a>
                     </div>
                 </div>
             </div>
-            <div class="divide-sm visible-xs"></div>
-            <div class="col-sm-6">
-                <div class="squared">
+<!--            <div class="divide-sm visible-xs"></div>-->
+            <div class="col-xs-6">
+                <div class="squared mcls">
                     <div class="squared-content">
                         <div id="carousel-7" class="carousel">
                             <div class="carousel-inner">
@@ -540,9 +538,9 @@
         <hr class="no-margin">
         <!-- Start #8 Content -->
         <div class="row">
-            <div class="divide-sm visible-xs"></div>
-            <div class="col-sm-6">
-                <div class="squared">
+<!--            <div class="divide-sm visible-xs"></div>-->
+            <div class="col-xs-6">
+                <div class="squared mcls">
                     <div class="squared-content">
                         <div id="carousel-8" class="carousel">
                             <div class="carousel-inner">
@@ -559,9 +557,9 @@
                     </div>
                 </div>
             </div>
-            <div class="divide-sm visible-xs"></div>
-            <div class="col-sm-6">
-                <div class="squared">
+<!--            <div class="divide-sm visible-xs"></div>-->
+            <div class="col-xs-6">
+                <div class="squared mcls">
                     <div class="squared-content">
                         <h2>Радиатор </h2>
                         <h5 class="smoke"><small>от 64 до 71 грн/кг</small></h5>
@@ -570,11 +568,11 @@
                             латунные
                             бронзовые
                         </p>
-                        <a href="#contact-top" class="btn btn-ghost">Оставить Заявку</a>
+                        <a href="#contact-top" class="btn btn-ghost hidden-xs">Оставить Заявку</a>
                     </div>
                 </div>
             </div>
-            <div class="divide-sm visible-xs"></div>
+<!--            <div class="divide-sm visible-xs"></div>-->
         </div>
         <!-- End #8 -->
     </div>
@@ -583,7 +581,7 @@
 
 <!-- Start contact -->
 <section id="contact" class="white-bg">
-    <div class="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 divide-md text-center">
+    <div style="padding-bottom: 0" class="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 divide-md text-center">
         <h2>Контакты</h2>
         <hr class="title-divider">
         <br>
@@ -596,33 +594,27 @@
     <div class="container">
         <div class="row divide-md">
             <!-- Icon #1 -->
-            <div class="col-sm-4 divide-sm text-center">
+            <div style="padding-top: 0;" class="col-sm-4 divide-sm text-center">
                 <div class="myway-icon-info">
-                    <svg viewBox="0 0 32 32">
-                        <use xlink:href="#email-mail"></use>
-                    </svg>
+                    <img src="<?php bloginfo('template_url')?>/assets/img/ico/envelope.png" class="img-responsive" alt="picture">
                 </div>
                 <div class="divide-xs"></div>
                 <p>hq@website.com</p>
                 <h4>Email</h4>
             </div>
             <!-- Icon #2 -->
-            <div class="col-sm-4 divide-sm text-center">
+            <div style="padding-top: 0;" class="col-sm-4 divide-sm text-center">
                 <div class="myway-icon-info">
-                    <svg viewBox="0 0 32 32">
-                        <use xlink:href="#iphone"></use>
-                    </svg>
+                    <img src="<?php bloginfo('template_url')?>/assets/img/ico/mobile-phone.png" class="img-responsive" alt="picture">
                 </div>
                 <div class="divide-xs"></div>
                 <p>381(0)621234567</p>
                 <h4>Call</h4>
             </div>
             <!-- Icon #3 -->
-            <div class="col-sm-4 divide-sm text-center">
+            <div style="padding-top: 0;" class="col-sm-4 divide-sm text-center">
                 <div class="myway-icon-info">
-                    <svg viewBox="0 0 32 32">
-                        <use xlink:href="#tag"></use>
-                    </svg>
+                    <img src="<?php bloginfo('template_url')?>/assets/img/ico/location.png" class="img-responsive" alt="picture">
                 </div>
                 <div class="divide-xs"></div>
                 <p>Grckoskolska 4, Novi Sad</p>
